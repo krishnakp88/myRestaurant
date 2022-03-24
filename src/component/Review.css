@@ -1,0 +1,83 @@
+.row{
+    height: 550px;
+width: 1350px;
+border: 1px solid white;
+position: absolute;
+top: 3290px;
+left: -1px;
+background-image: url(.//../assets/toa-heftiba-6bKpHAun4d8-unsplash.jpg);
+background-size: cover;
+}
+#customer{
+    position: absolute;
+top: 30px;
+left: 525px;
+font-size: xx-large;
+color: black;
+font-family: 'Satisfy', cursive;
+}
+#para1{
+    position: absolute;
+    top: 236px;
+    left: 66px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+#para2{
+    position: absolute;
+top: 93px;
+left: 758px;
+font-style: italic;
+color: white;
+font-weight: bold;
+
+}
+#para3{
+    position: absolute;
+    top: 325px;
+    left: 758px;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+}
+#img1{
+    height: 50px;
+    width: 53px;
+    position: absolute;
+    top: 334px;
+    left: 66px;
+
+}
+#img2{
+    height: 50px;
+width: 53px;
+position: absolute;
+top: 195px;
+left: 758px;
+}
+#img3{
+    height: 50px;
+width: 53px;
+position: absolute;
+top: 400px;
+left: 758px;
+}
+#name1{
+    position: absolute;
+    top: 348px;
+    left: 140px;
+    color: black;
+}
+#name2{
+    position: absolute;
+top: 208px;
+left: 832px;
+color: black;
+}
+#name3{
+    position: absolute;
+top: 415px;
+left: 832px;
+color: black;
+}

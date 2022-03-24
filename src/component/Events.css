@@ -1,0 +1,57 @@
+#preve{
+    position: absolute;
+top: 3879px;
+left: 488px;
+font-style: italic;
+font-size: 47px;
+color: black;
+font-family: 'Satisfy', cursive;
+}
+.carousel-item{
+    height: 692px;
+}
+.carousel-inner{
+    position: absolute;
+    /* top: 2884px; */
+        top: 2018px;
+
+}
+.carousel-control-prev{
+  position: absolute;
+top: 3200px;
+}
+.carousel-control-next{
+  position: absolute;
+top: 3200px;
+}
+.carousel-indicators{
+  position: absolute;
+top: 2707px;
+}
+#carou{
+    position: absolute;
+    left: -27px;
+    top: -632px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 50px;
+    color: black;
+}
+.carouselhead{
+    position: absolute;
+    left: -86px;
+    top: -319px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 66px;
+    color: white;
+}
+#carp1{
+    position: absolute;
+    top: -570px;
+    left: 300px;
+}
+.carp2{
+    color: white;
+}
+#caroucake{
+    height: 560px;
+}
